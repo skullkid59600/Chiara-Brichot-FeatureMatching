@@ -1,0 +1,5 @@
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.Console\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.Console.csproj.AssemblyReference.cache
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.Console\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.Console\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.Console.AssemblyInfoInputs.cache
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.Console\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.Console.AssemblyInfo.cs
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.Console\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.Console.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "bENYUzBpjCWZ0RVnzmfK4wthmU8bCdfjHEHyA8skQXDoaAjYfp3H9lu1nqGMTBMd8p1p2Xq9LRUbNewZ2C/dOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\Desktop\\Projetmatching\\Chiara.Brichot.FeatureMatching\\Chiara.Brichot.FeatureMatching.WebApi\\Chiara.Brichot.FeatureMatching.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\opencvsharp4\\4.5.5.20211231\\opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.5.20211231\\opencvsharp4.runtime.win.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\h0ffn.LAPTOP-HJD5GQ70\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

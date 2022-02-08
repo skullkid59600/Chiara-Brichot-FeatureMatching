@@ -1,0 +1,12 @@
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\bin\Debug\net6.0\Chiara.Brichot.FeatureMatching.deps.json
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\bin\Debug\net6.0\Chiara.Brichot.FeatureMatching.dll
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\bin\Debug\net6.0\ref\Chiara.Brichot.FeatureMatching.dll
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\bin\Debug\net6.0\Chiara.Brichot.FeatureMatching.pdb
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.csproj.AssemblyReference.cache
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.AssemblyInfoInputs.cache
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.AssemblyInfo.cs
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.csproj.CoreCompileInputs.cache
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.dll
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\ref\Chiara.Brichot.FeatureMatching.dll
+C:\Users\h0ffn.LAPTOP-HJD5GQ70\Desktop\Projetmatching\Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching\obj\Debug\net6.0\Chiara.Brichot.FeatureMatching.pdb

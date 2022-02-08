@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiara.Brichot.FeatureMatching", "Chiara.Brichot.FeatureMatching\Chiara.Brichot.FeatureMatching.csproj", "{126B736B-49A0-4255-B276-66F8CB04EA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiara.Brichot.FeatureMatching.Tests", "Chiara.Brichot.FeatureMatching.Tests\Chiara.Brichot.FeatureMatching.Tests.csproj", "{7C895F40-84C8-4244-8D46-6DBF05E347DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiara.Brichot.FeatureMatching.Console", "Chiara.Brichot.FeatureMatching.Console\Chiara.Brichot.FeatureMatching.Console.csproj", "{89B1A9E1-3844-4057-A7C1-6391279776CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiara.Brichot.FeatureMatching.WebApi", "Chiara.Brichot.FeatureMatching.WebApi\Chiara.Brichot.FeatureMatching.WebApi.csproj", "{3D5CC7B9-EACA-42AD-B55E-4C3B89943531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126B736B-49A0-4255-B276-66F8CB04EA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126B736B-49A0-4255-B276-66F8CB04EA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126B736B-49A0-4255-B276-66F8CB04EA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126B736B-49A0-4255-B276-66F8CB04EA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C895F40-84C8-4244-8D46-6DBF05E347DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C895F40-84C8-4244-8D46-6DBF05E347DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C895F40-84C8-4244-8D46-6DBF05E347DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C895F40-84C8-4244-8D46-6DBF05E347DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B1A9E1-3844-4057-A7C1-6391279776CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B1A9E1-3844-4057-A7C1-6391279776CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B1A9E1-3844-4057-A7C1-6391279776CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B1A9E1-3844-4057-A7C1-6391279776CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5CC7B9-EACA-42AD-B55E-4C3B89943531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5CC7B9-EACA-42AD-B55E-4C3B89943531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5CC7B9-EACA-42AD-B55E-4C3B89943531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5CC7B9-EACA-42AD-B55E-4C3B89943531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
